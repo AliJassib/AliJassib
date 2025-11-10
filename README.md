@@ -10,7 +10,6 @@
 
 I'm a **Mobile Application Developer** specializing in **Flutter** development. I'm passionate about creating beautiful, performant, and user-friendly mobile applications. Currently working at **QiCard** and based in **Karada, Baghdad**.
 
-أنا **مطور تطبيقات موبايل** متخصص في تطوير **Flutter**. شغوف بإنشاء تطبيقات موبايل جميلة وعالية الأداء وسهلة الاستخدام. أعمل حالياً في **QiCard** ومقيم في **كراده، بغداد**.
 
 - 🔭 Currently working on **Flutter Projects** at QiCard
 - 🌱 Learning **Advanced Flutter Architecture** and **Performance Optimization**
@@ -19,16 +18,6 @@ I'm a **Mobile Application Developer** specializing in **Flutter** development. 
 - 📫 How to reach me: [Telegram](https://t.me/AliJassib)
 - ⚡ Fun fact: I love building clean, maintainable code and solving complex problems!
 
-<div dir="rtl">
-
-- 🔭 أعمل حالياً على **مشاريع Flutter** في QiCard
-- 🌱 أتعلم **معمارية Flutter المتقدمة** و **تحسين الأداء**
-- 👯 أبحث عن التعاون في **مشاريع مفتوحة المصدر**
-- 💬 اسألني عن **Flutter**، **Dart**، **BLoC**، **Firebase**، **تطوير التطبيقات**
-- 📫 للتواصل: [Telegram](https://t.me/AliJassib)
-- ⚡ حقيقة ممتعة: أحب بناء كود نظيف وقابل للصيانة وحل المشاكل المعقدة!
-
-</div>
 
 ## 🛠️ Tech Stack - التقنيات التي أستخدمها
 
@@ -107,25 +96,6 @@ I'm a **Mobile Application Developer** specializing in **Flutter** development. 
 #### [Face Detected Pub Dev](https://github.com/AliJassib/face_detected_pub_dev)
 📦 Face detection package for Flutter
 - Flutter Package • Dart • Face Recognition
-
-
-<div dir="rtl">
-
-#### [Structure](https://github.com/AliJassib/structure)
-📱 قالب هيكل مشروع Flutter الخاص بي
-- Flutter • Dart • Clean Architecture
-- ⭐ 4 نجوم
-
-#### [Face Detected](https://github.com/AliJassib/face_detected)
-📱 حزمة كشف الوجوه لـ Flutter
-- Flutter • Dart • Machine Learning
-- منشور على pub.dev
-
-#### [Face Detected Pub Dev](https://github.com/AliJassib/face_detected_pub_dev)
-📦 حزمة كشف الوجوه لـ Flutter
-- Flutter Package • Dart • Face Recognition
-- 
-</div>
 
 ## 🎯 Skills - المهارات
 
@@ -217,11 +187,6 @@ I'm a **Mobile Application Developer** specializing in **Flutter** development. 
 
 **Mobile Application Developer | Flutter Expert**
 
-**مطور تطبيقات موبايل | خبير Flutter**
-
-**Made with ❤️ using Flutter**
-
-**صُنع بـ ❤️ باستخدام Flutter**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AliJassib&color=blueviolet&style=flat-square)
 
