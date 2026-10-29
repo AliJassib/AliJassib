@@ -1,193 +1,69 @@
-<div dir="rtl">
+<h1 align="center">Ali Jassib</h1>
 
-# 👋 مرحباً، أنا علي جاسب - Hello, I'm Ali Jassib
+<p align="center">
+  <b>Mobile Application Developer · Flutter</b><br>
+  I build fast, clean and maintainable mobile apps — from architecture to release.
+</p>
 
-مطور تطبيقات موبايل محترف متخصص في Flutter، شغوف ببناء تطبيقات حديثة وأداء عالي.
+<p align="center" dir="rtl">مطوّر تطبيقات موبايل بـ Flutter — أبني تطبيقات سريعة ومرتّبة وسهلة الصيانة.</p>
 
-</div>
-
-## 🚀 About Me - عني
-
-I'm a **Mobile Application Developer** specializing in **Flutter** development. I'm passionate about creating beautiful, performant, and user-friendly mobile applications. Currently working at **QiCard** and based in **Karada, Baghdad**.
-
-
-- 🔭 Currently working on **Flutter Projects** at QiCard
-- 🌱 Learning **Advanced Flutter Architecture** and **Performance Optimization**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Flutter**, **Dart**, **BLoC**, **Firebase**, **Mobile Development**
-- 📫 How to reach me: [Telegram](https://t.me/AliJassib)
-- ⚡ Fun fact: I love building clean, maintainable code and solving complex problems!
-
-
-## 🛠️ Tech Stack - التقنيات التي أستخدمها
-
-### Languages & Frameworks
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-
-### State Management & Architecture
-![BLoC](https://img.shields.io/badge/BLoC-8C1CB4?style=for-the-badge&logo=flutter&logoColor=white)
-![Cubit](https://img.shields.io/badge/Cubit-8C1CB4?style=for-the-badge&logo=flutter&logoColor=white)
-- **BLoC/Cubit** - State management pattern
-- **Clean Architecture** - Feature-based architecture
-- **Repository Pattern** - Data layer abstraction
-
-### Backend & Services
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge)
-- **Firebase** - Authentication, Cloud Messaging, Analytics
-- **REST APIs** - Dio, Retrofit
-- **Sentry** - Error tracking & monitoring
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Key Packages & Libraries
-- **AutoRoute** - Declarative routing
-- **GetIt** - Dependency injection
-- **Easy Localization** - Multi-language support
-- **Geolocator** - Location services
-- **Image Picker** - Camera & gallery access
-- **Video Player** - Video playback & recording
-- **FFmpeg Kit** - Video processing
-
-## 📊 GitHub Stats - إحصائيات GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliJassib&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliJassib&layout=compact&langs_count=8&theme=dark"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=AliJassib&theme=dark" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies - جوائز GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AliJassib&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-## 📈 Contribution Graph - مخطط المساهمات
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliJassib&theme=dark" alt="Contribution Graph" />
-</div>
-
-## 💻 Featured Projects - مشاريعي المميزة
-
-### 🔥 Main Projects - المشاريع الرئيسية
-
-#### [Structure](https://github.com/AliJassib/structure)
-📱 My Flutter project structure template
-- Flutter • Dart • Clean Architecture
-
-#### [Face Detected](https://github.com/AliJassib/face_detected)
-📱 Face detection Flutter package
-- Flutter • Dart • Machine Learning
-- Published on pub.dev
-
-#### [Face Detected Pub Dev](https://github.com/AliJassib/face_detected_pub_dev)
-📦 Face detection package for Flutter
-- Flutter Package • Dart • Face Recognition
-
-## 🎯 Skills - المهارات
-
-### Programming Languages
-- **Dart** - Expert ⭐⭐⭐⭐⭐
-
-### Mobile Development
-- **Flutter** - Expert ⭐⭐⭐⭐⭐
-- **Android Native** - Beginner ⭐⭐
-- **iOS Native** - Beginner ⭐⭐
-
-### State Management
-- **BLoC/Cubit** - Expert ⭐⭐⭐⭐⭐
-- **Provider** - Advanced ⭐⭐⭐⭐
-- **GetX** - Expert ⭐⭐⭐⭐⭐
-
-### Backend & Services
-- **Firebase** - Expert ⭐⭐⭐⭐⭐
-  - Authentication
-  - Cloud Messaging
-  - Cloud Functions
-  - Analytics
-- **REST APIs** - Advanced ⭐⭐⭐⭐
-- **Dio/Retrofit** - Advanced ⭐⭐⭐⭐
-
-### Architecture & Patterns
-- **Clean Architecture** - Expert ⭐⭐⭐⭐⭐
-- **Feature-based Architecture** - Expert ⭐⭐⭐⭐⭐
-- **Repository Pattern** - Expert ⭐⭐⭐⭐⭐
-- **Dependency Injection** - Advanced ⭐⭐⭐⭐
-
-### Tools & Others
-- **Git/GitHub** - Advanced ⭐⭐⭐⭐
-- **Sentry** - Advanced ⭐⭐⭐⭐
-- **Video Processing** - Intermediate ⭐⭐⭐
-- **Location Services** - Advanced ⭐⭐⭐⭐
-
-
-
-## 📚 Currently Learning - أتعلم حالياً
-
-- 🎓 Advanced Flutter Performance Optimization
-- 🎓 Clean Code Principles & SOLID
-- 🎓 Advanced Design Patterns
-- 🎓 CI/CD Pipeline Setup
-- 🎓 Microservices Architecture
-
-## 🎖️ Achievements - الإنجازات
-
-- 🏅 **Arctic Code Vault Contributor** - Contributed to open source projects preserved in the GitHub Arctic Code Vault
-
-
-## 🤝 Connect with Me - تواصل معي
-
-<div align="center">
-  <a href="https://github.com/AliJassib" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://t.me/AliJassib" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/alijassib" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
-
-## 📊 Activity - النشاط
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 🐍 Snake Eating My Contributions - الأفعى تأكل مساهماتي
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AliJassib/AliJassib/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-## ⚡ Random Dev Quote - اقتباس عشوائي
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</div>
+<p align="center">
+  <a href="https://t.me/AliJassib"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://www.linkedin.com/in/alijassib"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://pub.dev/packages/face_detected"><img src="https://img.shields.io/badge/pub.dev-face__detected-0175C2?style=flat-square&logo=dart&logoColor=white" alt="pub.dev"></a>
+  <img src="https://img.shields.io/badge/Baghdad%2C%20Iraq-555?style=flat-square&logo=googlemaps&logoColor=white" alt="Baghdad, Iraq">
+</p>
 
 ---
 
-<div align="center">
+### About
 
-### ⭐️ From [AliJassib](https://github.com/AliJassib)
+- Flutter developer at **QiCard**, Baghdad.
+- I ship production apps end to end: project architecture, state management, the API layer, localization and store releases.
+- I start every app from a feature-first, layered structure — Cubit for state, get_it for DI, Dio + Retrofit for networking, auto_route for navigation.
+- Published [`face_detected`](https://pub.dev/packages/face_detected) on pub.dev, and lately building native Android with on-device ML.
+- Open to collaborating on open-source Flutter work.
 
-**Mobile Application Developer | Flutter Expert**
+### Tech stack
 
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase,python,git,github,docker,vscode,postman&perline=11" alt="Flutter, Dart, Kotlin, Android Studio, Firebase, Python, Git, GitHub, Docker, VS Code, Postman">
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AliJassib&color=blueviolet&style=flat-square)
+| Area | Tools |
+| --- | --- |
+| Architecture | Feature-first Clean Architecture · Repository pattern · get_it |
+| State | BLoC / Cubit · Provider · GetX |
+| Networking | Dio · Retrofit · REST APIs |
+| Navigation & i18n | auto_route · easy_localization (Arabic RTL + English) |
+| Firebase | Auth · Cloud Messaging · Cloud Functions · Analytics |
+| Device & media | Camera · Image Picker · Video Player · FFmpeg Kit · Geolocator · ML Kit |
+| Monitoring | Sentry |
 
-</div>
+### Featured projects
+
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [**Depth Clock**](https://github.com/AliJassib/depth-clock) | Puts the lock-screen clock *behind* the person in your photo — the iOS depth effect for Samsung Galaxy and Android 14+. Subject segmentation runs on the device, so photos never leave the phone. | Kotlin · ML Kit · Live Wallpaper |
+| [**face_detected**](https://github.com/AliJassib/face_detected_pub_dev) | Flutter package for face verification with liveness steps: smile, blink and head pose. Published on [pub.dev](https://pub.dev/packages/face_detected). | Flutter · ML Kit · Camera |
+| [**structure**](https://github.com/AliJassib/structure) | The Flutter project template I start apps from: config, networking client, models, localization and pages laid out from day one. | Flutter · Dio · Retrofit · GetX |
+
+### Currently learning
+
+- Flutter performance profiling
+- CI/CD pipelines for mobile releases
+- Advanced design patterns and SOLID
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliJassib/AliJassib/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliJassib/AliJassib/output/github-snake.svg">
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/AliJassib/AliJassib/output/github-snake.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AliJassib&color=0175C2&style=flat-square&label=Profile+views" alt="Profile views">
+</p>
